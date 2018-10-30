@@ -5,7 +5,7 @@
 
 
 
-# R-Programming-Fundamentals-eLearning
+# R Programming Fundamentals eLearning
 Data analysis is crucial to accurately predict the performance of an application. The course begins by getting you started with R, including basic programming and data import, data visualization, pivoting, merging, aggregating, and joins. Once you are comfortable with the basics, you will read ahead and learn all about data visualization and graphics. You will learn data management techniques such as pivots, aggregations, and dealing with missing values. With this various case studies and examples, this course gives you the knowledge to confidently start your career in the field of data science.
 
 
